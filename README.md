@@ -5,6 +5,18 @@
 - **Commander 500 (Brasil)**: Variante nacional onde o deck deve custar **até R$ 500,00** no mercado brasileiro.
 - **Mesão**: Partida multiplayer típica de Commander, geralmente com 4 jogadores.
 - **Dual**: Partida 1x1 (um contra um) no Commander.
+- **Brackets (Chaveamento/Tiers de Decks)**: Estrutura usada para classificar ou organizar decks em torneios e comunidades.  
+  - **Exhibition**: Decks temáticos ou de demonstração, feitos para mostrar mecânicas ou flavor, não competitivos.  
+  - **Core**: Decks pré-construídos (precons) ou versões básicas sem upgrades significativos.  
+  - **Upgraded**: Decks que receberam melhorias pontuais, mas ainda mantêm a base do precon.  
+  - **Optimized**: Decks ajustados para desempenho consistente, com escolhas de cartas focadas em eficiência.  
+  - **cEDH (Competitive EDH)**: Decks altamente competitivos, otimizados para vencer rápido, muitas vezes com combos infinitos.  
+- **Brackets de Torneio**: Estruturas de chaveamento usadas em eventos de Commander.  
+  - **Single Elimination**: quem perde está fora, quem ganha avança.  
+  - **Double Elimination**: permite uma segunda chance; o jogador só é eliminado após duas derrotas.  
+  - **Round Robin**: todos jogam contra todos, somando pontos por vitória.  
+  - **Swiss**: jogadores enfrentam oponentes com pontuação semelhante, sem eliminação direta.  
+  - **Pod Play**: típico do Commander, onde os jogadores são divididos em mesas (pods) de 3–4 pessoas, e os vencedores avançam para fases seguintes.
 
 ---
 
@@ -63,4 +75,5 @@
 - **Recursão** = reaproveitar cartas do cemitério.  
 - **Staples** = cartas essenciais em muitos decks.  
 - **Wincon** = condição de vitória.  
-- **Commander Damage** = regra especial de dano letal do
+- **Commander Damage** = regra especial de dano letal do comandante.  
+- **Brackets** = classificação de decks (Exhibition, Core, Upgraded, Optimized, cEDH) ou chaveamento de torneios (single, double, swiss, pod play).
