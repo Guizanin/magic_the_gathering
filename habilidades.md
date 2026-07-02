@@ -1,5 +1,3 @@
-Perfeito, Guilherme! Vamos corrigir: na versão consolidada que te enviei, eu só listei os nomes das habilidades, mas faltaram as explicações detalhadas de cada uma. Aqui está o glossário completo, em ordem alfabética pelo nome em inglês, com a tradução em português entre parênteses e a explicação de cada habilidade:
-
 # 📖 Glossário Completo de Habilidades do Magic: The Gathering
 
 Este documento lista as habilidades (keywords) oficiais de Magic: The Gathering em ordem alfabética, com o nome em inglês e a tradução em português entre parênteses, acompanhadas de suas explicações.
